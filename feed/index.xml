@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Westgate Oxford</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 22 Dec 2023 10:41:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/12/cropped-westgate-oxford-logo-pale-blue-v2-1-32x32.jpg</url>
+	<title>Westgate Oxford</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to make sense of wildfire smoke and interpret data in real time</title>
+		<link>/2023/12/22/how-to-make-sense-of-wildfire-smoke-and-interpret-data-in-real-time/</link>
+					<comments>/2023/12/22/how-to-make-sense-of-wildfire-smoke-and-interpret-data-in-real-time/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 22 Dec 2023 10:41:37 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=32</guid>
+
+					<description><![CDATA[Smoke stemming from hundreds of burning wildfires in Canada has made its way to the northeastern U.S., where it is now clogging the air and causing a significant drop in air quality. New York City is now leading the ranks as the world’s most polluted city, with the worst air pollution readings seen in decades. Wildfire smoke is ... <a title="How to make sense of wildfire smoke and interpret data in real time" class="read-more" href="/2023/12/22/how-to-make-sense-of-wildfire-smoke-and-interpret-data-in-real-time/" aria-label="More on How to make sense of wildfire smoke and interpret data in real time">Read more</a>]]></description>
+										<content:encoded><![CDATA[<p>Smoke stemming from hundreds of burning wildfires in Canada has made its way to the northeastern U.S., where it is now clogging the air and causing a significant drop in air quality. New York City is now leading the ranks as the world’s most polluted city, with the worst air pollution readings seen in decades.</p>
+<p>Wildfire smoke is one of the fastest-growing sources of air pollution in the United States. Particulate matter pollution from fires can cause significant health complications for those that are pregnant, young children, the elderly, outdoor workers, residents of leaky buildings and anyone with heart or lung ailments.</p>
+<p>MuckRock has spent the past two years working on various air pollution journalism projects, including analyzing pollution data and installing our own air sensors in Chicago and digging into wildfire smoke data in California.</p>
+<p>Here is a collection of MuckRock resources, including a data archive of historic U.S. wildfires from the National InterAgency Fire Center; how-to guides on what type of documents and data to request from local governments; and live PurpleAir sensor data from Chicago and New York City to help newsrooms, civic groups and the public make sense of wildfire data.</p>
+<p>What documents and data to request about air pollution from your local government</p>
+<p>MuckRock’s “Air Quality Access” series offers guides to help you investigate air quality in your community using public records requests.</p>
+<p>&lt;id=&#8221;create-request-button&#8221;&gt;Explore MuckRock’s &#8220;Air Quality Access&#8221; how-to guides for public records requests&lt;/id=&#8221;create-request-button&#8221;&gt;</p>
+<p>This guide includes advice on:</p>
+<p>Finding your local air pollution control board or air pollution branch of your state’s environmental agency and knowing what documents to ask for, including air pollution permits, annual air pollutant reports and new source review permits;</p>
+<p>Asking your local government how it regulates polluters in your area, including requesting initial complaints, sustained violations and monitoring reports;</p>
+<p>Asking what your local government is doing to improve your air quality beyond issues of compliance or how polluters ended up in your community in the first place.</p>
+<p>Explore our EPA wildfire data, including historic U.S. wildfires</p>
+<p>Our EPA wildfire data on GitHub contains data and findings that are part of an ongoing collaboration between MuckRock and the California Newsroom on the increasing impact of wildfire smoke on Californians’ health. The data and analysis underpin the visualizations and findings in the story “As Wildfire Smoke Worsens Public Health, Government Watchdog Calls EPA Response ‘Ad Hoc’”.</p>
+<p>MuckRock also provides a GitHub repository for data on the increasing impact of wildfire smoke on Californians’ health.</p>
+<p>Additional MuckRock Resources</p>
+<p>“What’s in the air?” from MuckRock, WBEZ and the Chicago Sun-Times offers an illustrated explainer of particulate matter, which consists of very small particles suspended in the air we breathe. The explainer highlights how high levels of particulate matter can lead to health issues like asthma, heart attack or chronic obstructive pulmonary disease.</p>
+<p>How You Can Monitor Chicago’s Air Pollution Hotspots on GitHub contains tools to help Chicagoans stay up to date on the city’s air quality and is part of an ongoing project by MuckRock.</p>
+<p>As part of its project to monitor air quality in Chicago, MuckRock also provides real-time readings from a PurpleAir sensor in Cicero, which has some of the highest levels of particulate matter pollution.</p>
+<p>Recently, MuckRock has alsoinstalled a PurpleAir sensor in New York City, which saw its air quality drop significantly due to smoke from the Canadian wildfires.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/12/22/how-to-make-sense-of-wildfire-smoke-and-interpret-data-in-real-time/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Air Quality Access: Three requests to help you scrutinize local environmental standards</title>
+		<link>/2023/12/22/air-quality-access-three-requests-to-help-you-scrutinize-local-environmental-standards/</link>
+					<comments>/2023/12/22/air-quality-access-three-requests-to-help-you-scrutinize-local-environmental-standards/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 22 Dec 2023 10:40:05 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=29</guid>
+
+					<description><![CDATA[Requesting air pollution permits and emissions inventories can help pinpoint polluters Written by Dillon Bergin Edited by Michael Morisy In 2004, Dina Cappiello, then a reporter for the Houston Chronicle, discovered that residents in the Allendale area of Houston were exposed to a cancer-causing toxin called 1,3-butadiene at a level 20 times higher than federal guidelines — ... <a title="Air Quality Access: Three requests to help you scrutinize local environmental standards" class="read-more" href="/2023/12/22/air-quality-access-three-requests-to-help-you-scrutinize-local-environmental-standards/" aria-label="More on Air Quality Access: Three requests to help you scrutinize local environmental standards">Read more</a>]]></description>
+										<content:encoded><![CDATA[<p>Requesting air pollution permits and emissions inventories can help pinpoint polluters</p>
+<p>Written by Dillon Bergin<br />
+Edited by Michael Morisy</p>
+<p>In 2004, Dina Cappiello, then a reporter for the Houston Chronicle, discovered that residents in the Allendale area of Houston were exposed to a cancer-causing toxin called 1,3-butadiene at a level 20 times higher than federal guidelines — for toxic waste dumps.</p>
+<p>In a nearby area, levels of the industrial compound benzene were so high that one scientist told the Chronicle living there would be like “sitting in traffic 24-7.”</p>
+<p>During a yearlong investigation with the University of Texas School of Public Health, Cappiello and other Chronicle reporters analyzed data from air monitors at 84 homes and 16 public spaces in the Houston area. The communities in which the Chronicle placed the monitors were adjacent to major refineries or chemical plants. The investigation found that residents in some of these areas were exposed to dangerous levels of cancer-causing pollutants.</p>
+<p>Cappiello, now communications director for the Rocky Mountain Institute, said she often heard about air pollution accidents while reporting on the environment for the Chronicle. Her investigation started when she realized state standards didn’t align with what she heard from residents who lived close to the industrial facilities.</p>
+<p>“Everybody was like ‘nothing to see here,’ but I was like something doesn’t add up,” Cappiello said.</p>
+<p>You don’t need a hundred sensors or even a year to find out more about your community’s air quality, though. Checking for dangerous pollutants can start with simple records requests, including examples in the following guide focused on understanding and accessing air quality standards. We’ll help you find public records about air pollution by focusing on three areas: standards, regulation and planning.</p>
+<p>We’ve been reporting on air pollution with Chicago-area partners including WBEZ, the Sun Times and Cicero Independiente, but these guides should be useful in communities across the United States. Future guides will focus on using public records to dig into how air safety regulation and planning processes work.</p>
+<p>Air pollution and local standards</p>
+<p>With so much information available, it can be hard to know where to start. Cappiello, a former Society of Environmental Journalists board member, said the first question about air pollution she would pose to her local government would be what the current standards are. Once you have that, Cappiello said, you can start questioning whether those standards are high enough and to what level of risk residents are exposed.</p>
+<p>Before you can understand your local government’s standards on air pollution, you first have to find your local air pollution control board or air pollution branch of your state’s environmental agency.</p>
+<p>After that, ask them where to find the documents below.</p>
+<p>Documents on air pollution to ask your local government for<br />
+Air pollution permits</p>
+<p>An air pollution permit is a form that any facility emitting air pollutants is required to fill out, declaring what pollutants the facility will emit so that the state can ensure the facility meets federal and state air rules. Here’s how air permits are issued in Minnesota and examples of air permits issued by the state of Minnesota.</p>
+<p>“Go through the permits,” Cappiello recommended. “I spent so much time in the Houston field office for the Texas Commission on Environmental Quality going through permits because, as they say, the devil is in the details.”</p>
+<p>When you’re reviewing a permit, keep an eye out for what types of pollutants facilities emit, which can lead you to health consequences like the ones Cappiello highlighted in her investigation.</p>
+<p>Permits can also tell you the amount of pollutants emitted regularly and where the facility is located. If you’re able to gather that permitting data across a whole town or city, you’ll be able to spot whether there are inequities by neighborhood.</p>
+<p>Last year, Keith Matheny and Kristi Tanner of the Detroit Free Press made use of air pollution permits from across the state of Michigan to reveal the connection between where permits are approved and communities with long-standing racial and socioeconomic disparities. In Huntington, West Virginia, reporter Fred Pace at the Herald-Dispatch dug up a recently submitted permit to tell its readers about the potential pollution from a proposed steel mill.</p>
+<p>Annual air pollutant report</p>
+<p>This document is the annual self-reporting requirement for a facility that holds an air pollution permit. Here’s what the form for this report looks like in Illinois.</p>
+<p>There are several parts of these reports, often called emissions inventories, to pay close attention to. Sections about source emissions can also be useful because, similar to a permit, these parts of the form describe how much and what type of emissions the facility discloses for the reporting year.</p>
+<p>Sections on startups, shutdowns and malfunctions point towards excess emissions or other accidents at the facility in the past year.</p>
+<p>For inspiration on how to ask for this type of document, take a look at this request for Illinois EPA’s database of startups, shutdowns, and malfunctions. You can file this request yourself here, but be sure to update some of the state-specific language before filing.</p>
+<p>In A Pass to Poison, Kiah Collier and Ryan Murphy analyzed data on thousands of self-reported emissions malfunctions across the state of Texas, documenting how the state lets polluters off the hook by charging polluters small fines for big problems.</p>
+<p>New source review permit</p>
+<p>“New source review” is a type of permit required when a facility makes any modifications that would change its air pollution permit. Check out the portal that Connecticut’s Department of Energy and Environmental Protection maintains for air pollution permits for an example of what your local government might record.</p>
+<p>Here’s an example request for Illinois EPA’s version of a new source review, a document called “Modification to a Clean Air Act Permit Program (CAAAP) Permit.” If you request something similar, make sure to update the language to reflect the state-specific filing and scope of information you are interested in.</p>
+<p>The new source review permit was one of Cappiello’s favorite documents during her investigation. If you’ve honed in on a specific facility, this document can explain how modifications to equipment have changed the facility’s emissions over time. Cappiello suggests paying close attention to the uses of language like “tune up” that could downplay changes that cause larger capacity creep over time.</p>
+<p>What’s next?</p>
+<p>A week after the Chronicle’s investigation was published, the mayor of Houston announced a new plan to track air pollution by installing monitors on the fences of some of the area’s industrial facilities. Later that year, bills were introduced to the Texas House and Senate calling for increased monitoring of air toxics.</p>
+<p>Cappiello’s investigation started with a growing number of calls at her reporting desk from residents who were concerned that air pollution accidents weren’t being properly reported.</p>
+<p>“I was getting calls from residents all the time [about air pollution incidents],” Cappiello said.</p>
+<p>In the next guide, we’ll cover how your local government handles these kinds of complaints and, more generally, how local governments regulate air pollution. Subscribe to MuckRock’s weekly newsletter to receive updates as they’re published. If you have a great example of environmental public records reporting you’ve done, reach out at dillon@muckrock.com. We’d love to highlight additional examples of great work.</p>
+<p>Interested in sharing these tips? This guide is published under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) License. If you have questions about syndication or ideas for another reporting recipe or public records guide, reach out to news@muckrock.com.</p>
+<p>Header image by Tatiana Grozetskaya and licensed via Shutterstock. It may not be reproduced without prior permission.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/12/22/air-quality-access-three-requests-to-help-you-scrutinize-local-environmental-standards/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>4 ways food banks are feeding kids right now</title>
+		<link>/2023/12/22/4-ways-food-banks-are-feeding-kids-right-now/</link>
+					<comments>/2023/12/22/4-ways-food-banks-are-feeding-kids-right-now/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 22 Dec 2023 10:36:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=26</guid>
+
+					<description><![CDATA[August 18, 2021 by Feeding America Staff As the COVID-19 delta variant surges, schools and families are continuing to face difficult decisions about how best to keep kids safe in the upcoming school year. School districts are choosing between in-person instruction, remote learning or a combination of both and are weighing whether or not to establish ... <a title="4 ways food banks are feeding kids right now" class="read-more" href="/2023/12/22/4-ways-food-banks-are-feeding-kids-right-now/" aria-label="More on 4 ways food banks are feeding kids right now">Read more</a>]]></description>
+										<content:encoded><![CDATA[<p>August 18, 2021</p>
+<p>by Feeding America Staff</p>
+<p>As the COVID-19 delta variant surges, schools and families are continuing to face difficult decisions about how best to keep kids safe in the upcoming school year. School districts are choosing between in-person instruction, remote learning or a combination of both and are weighing whether or not to establish mask mandates. With the timeline of vaccine rollout for those under 12 and future variants unknown, this school year is bound to bring more uncertainty for parents and children. But, food banks are making sure parents facing hunger won’t have to worry about where their children’s next meal will come from.</p>
+<p>With an estimated 13 million kids facing hunger in 2021, food banks are leveraging learnings from last year’s food program adjustments to provide kids with the food they need throughout this next school year, no matter what lies ahead.</p>
+<p>Four ways food banks are helping kids and their families get food this school year</p>
+<p>1. BackPack Programs are providing kids with food to take home on weekends and during school breaks</p>
+<p>Many food banks across the country run BackPack programs, which provide shelf-stable food for kids to take home on the weekend. When schools go virtual, families are able to pick up this food at convenient locations in their communities. Food banks are continuing to meet the ongoing demand and preparing for the unexpected challenges this next school year may bring.</p>
+<p>For example, Northern Illinois Food Bank is providing students with sturdier bags to make picking up or bringing the food home from school even easier. Additionally, they are delivering food to schools a week ahead of the scheduled distribution to allow hybrid learning schools to hand off the food whichever days of the week the children are in the classroom.</p>
+<p>2. Drive-thru and food pickup at local schools</p>
+<p>Food banks are partnering with schools–even if they aren’t seeing kids in the classrooms–to give food to families of students using contact free pickups. Schools and food banks often give out fresh produce, meat, and pantry staples like pasta, peanut butter, canned fruit. At some pickups, families are not required to attend the school hosting the pickup.</p>
+<p>Some schools partnering with the HACAP Food Reservoir are leveraging a shopping list system, where families submit a list of items they would like to receive, and staff prepacks the items for a drive-thru or hand-off delivery. This allows for families to still have a choice in what they receive while reducing the need for an in-person shopping experience.</p>
+<p>3. Bringing food directly to kids and families at their homes or community centers</p>
+<p>Food banks and their partners are working hard to make sure kids and families have food this school year and even when that means bringing food directly to homes or creating pop-up food pantries in neighborhoods like community centers and places of worship.</p>
+<p>For example, Long Island Cares is delivering food to kids with a mobile breakfast program. Called the Aspara’Gus’ Food Truck, the truck stops at a number of community sites on Saturdays and Sundays, distributing free to-go cold breakfasts to kids.</p>
+<p>4. After school meals are filling the gap in the evening</p>
+<p>Even when schools are closed, some after-school meal programs stay open to help feed children who don’t have consistent access to food at home. Because many after-school programs before the pandemic included hot meals in a group setting, food banks are having to adapt to make sure kids still have a meal option without needing to eat with a group. Food banks like Capital Area Food Bank are keeping open their after-school sites and are offering cold to-go meals for kids to take home and eat.</p>
+<p>How can I help?<br />
+Volunteer at your local food bank. Volunteers are an important part of packing shelf-stable meals for kids or families when school is in session. Find your local food bank and follow them on social media to learn what they need most as the school year starts.<br />
+Encourage parents who need a little extra help to reach out to their local school to learn what the qualifications are for meal programs. More families may be eligible for school breakfast and lunch programs then in years past.<br />
+Raise awareness about free meal programs for kids. Meals for kids are available, but often parents don’t know where to find them. Check with your local food bank and your school district about how you can spread the word.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/12/22/4-ways-food-banks-are-feeding-kids-right-now/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Norwegian cruise ship loses ability to navigate after rogue wave hits</title>
+		<link>/2023/12/22/norwegian-cruise-ship-loses-ability-to-navigate-after-rogue-wave-hits/</link>
+					<comments>/2023/12/22/norwegian-cruise-ship-loses-ability-to-navigate-after-rogue-wave-hits/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 22 Dec 2023 10:33:37 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=24</guid>
+
+					<description><![CDATA[All 266 passengers and 131 crew members are safe, and no serious injuries were reported. By Irene Byon and Rebecca Cohen A Norwegian cruise ship lost the ability to navigate after a rogue wave crashed into it Thursday, the cruise company HX said. The MS Maud lost power after the wave hit as the ship was sailing toward ... <a title="Norwegian cruise ship loses ability to navigate after rogue wave hits" class="read-more" href="/2023/12/22/norwegian-cruise-ship-loses-ability-to-navigate-after-rogue-wave-hits/" aria-label="More on Norwegian cruise ship loses ability to navigate after rogue wave hits">Read more</a>]]></description>
+										<content:encoded><![CDATA[<p>All 266 passengers and 131 crew members are safe, and no serious injuries were reported.</p>
+<p>By Irene Byon and Rebecca Cohen</p>
+<p>A Norwegian cruise ship lost the ability to navigate after a rogue wave crashed into it Thursday, the cruise company HX said.</p>
+<p>The MS Maud lost power after the wave hit as the ship was sailing toward Tilbury, England, from Florø, Norway, HX, a unit of Norway’s Hurtigruten Group, said in a statement.</p>
+<p>None of the passengers or crew members were seriously injured, HX said. Reuters reported that all 266 passengers and 131 crew members are safe, citing the Danish Joint Rescue Coordination Centre.</p>
+<p>&#8220;The situation is stable, the ship has propulsion and they are able to navigate the ship manually via emergency systems,&#8221; the Danish Joint Rescue Coordination Centre said in a statement Friday local time.</p>
+<p>The rogue wave shattered windows on the ship&#8217;s bridge, which caused water to enter the vessel and resulted in a power outage, Reuters reported.</p>
+<p>Recommended<br />
+ISRAEL-HAMAS WARIsrael-Hamas war live updates: Hamas reportedly rejects Israeli cease-fire offer<br />
+U.S. NEWSTwo 10-year-old boys killed after father flees from Wisconsin deputies, officials say</p>
+<p>Because of a lack of navigational abilities, the ship had to be steered manually from the engine room, Reuters reported, with support vessels from a civil rescue company helping navigate until the ship could be towed to port.</p>
+<p>HX said in the statement that the ship&#8217;s crew conducted &#8220;thorough safety checks and technical assessments&#8221; and that further checks were underway to ensure the ship could continue on course.</p>
+<p>The Danish Joint Rescue Coordination Centre said Friday that it did not know which harbor the ship would choose. Two civilian support ships are assisting, it said.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/12/22/norwegian-cruise-ship-loses-ability-to-navigate-after-rogue-wave-hits/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Biden prides himself on being pro-labor. But one union that backed him early in 2020 remains on the sidelines this time.</title>
+		<link>/2023/12/22/biden-prides-himself-on-being-pro-labor-but-one-union-that-backed-him-early-in-2020-remains-on-the-sidelines-this-time/</link>
+					<comments>/2023/12/22/biden-prides-himself-on-being-pro-labor-but-one-union-that-backed-him-early-in-2020-remains-on-the-sidelines-this-time/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 22 Dec 2023 10:31:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=22</guid>
+
+					<description><![CDATA[The firefighters union was the first to support Biden last time he ran, but so far hasn’t waded into this contest. Some leaders say that is because Trump is more popular among members. By Mike Memoli The International Association of Fire Fighters was the first union to back Joe Biden in 2020 — effectively doing so ... <a title="Biden prides himself on being pro-labor. But one union that backed him early in 2020 remains on the sidelines this time." class="read-more" href="/2023/12/22/biden-prides-himself-on-being-pro-labor-but-one-union-that-backed-him-early-in-2020-remains-on-the-sidelines-this-time/" aria-label="More on Biden prides himself on being pro-labor. But one union that backed him early in 2020 remains on the sidelines this time.">Read more</a>]]></description>
+										<content:encoded><![CDATA[<p>The firefighters union was the first to support Biden last time he ran, but so far hasn’t waded into this contest. Some leaders say that is because Trump is more popular among members.</p>
+<p>By Mike Memoli</p>
+<p>The International Association of Fire Fighters was the first union to back Joe Biden in 2020 — effectively doing so even before he entered the crowded Democratic primary. But nearly eight months after the president launched his re-election bid, the organization remains on the sidelines and faces internal divisions about whether to endorse at all in 2024.</p>
+<p>Biden has prided himself on a connection with firefighters for his whole political career, and he and his team have continued to cultivate relationships with the union’s leaders since taking office. Those same leaders, though, are mindful that not all of the 343,000 firefighters and paramedics who belong to the union agreed with the 2020 endorsement, and so they are taking a more deliberate approach to 2024, according to two sources familiar with the deliberations.</p>
+<p>The situation illustrates how Biden, who has described himself as the most pro-labor president in American history, still faces a challenge in securing the votes of rank-and-file union members, even if many prominent national labor organizations have thrown their support behind him.</p>
+<p>Former President Donald Trump has pulled away working-class voters, including some who have traditionally been Democratic voters like union members.</p>
+<p>“Biden and his administration has been good to firefighters,” said Mike Bresnan, the leader of the Philadelphia affiliate of the IAFF, adding that it still might not be enough to earn his or other members’ votes.</p>
+<p>“There are other issues that affect our membership,” he said, mentioning support for the Second Amendment among them.</p>
+<p>The divide within the firefighters union was on display Monday when Biden traveled to Philadelphia for an event at a local firehouse to highlight one of the IAFF’s top legislative priorities — renewing and increasing funding for what’s known after the SAFER Grant program, which provides federal dollars to hire first responders.</p>
+<p>Speaking before Biden at what was an official event, not a campaign event, IAFF General President Edward Kelly noted that the president had championed the grant program as a senator.</p>
+<p>“Properly staffing and equipping fire departments keeps our communities safe and saves the lives of civilians and firefighters, alike. Nobody knows this better than Joe Biden,” Kelly said.</p>
+<p>On hand, too, was the former IAFF official Biden had appointed to lead the U.S. Fire Administration, Lori Moore-Merrell. Biden’s chief political lieutenant, Steve Ricchetti, made what was for him a rare day trip with the president to attend as well.</p>
+<p>Watching, but not participating in the event, was Bresnan. In September 2020, Bresnan had issued a statement pledging IAFF Local 22’s support for Trump and attacking the national union over its “undemocratic” endorsement process. Trump’s campaign touted the news and planned to hold an event with Bresnan and other firefighters in Philadelphia the following week — but the trip was canceled when Trump contracted Covid-19.</p>
+<p>Biden referred to Bresnan during his remarks Monday, detailing a call he placed to the local union leader after a row house fire in Philadelphia in 2022 that led to 12 deaths, including those of nine children. Bresnan had told the president about how multiple Philadelphia fire stations were shuttered after the 2008 recession, and that if one close to the site of the fire had remained open, they might have saved more lives. Biden told him he would look into the issue.</p>
+<p>On Monday, Biden came with a check — a $22.4 million SAFER grant that the White House said would allow the city to fund 72 firefighters’ salary and benefits for three years, while reopening three firehouses — including the one he visited, which would have been closest to the 2022 fire.</p>
+<p>Recommended<br />
+DONALD TRUMPHere&#8217;s who has Trump&#8217;s ear as the primary season kicks into full gear<br />
+HUNTER BIDENFormer Trump aide asks judge to dismiss Hunter Biden lawsuit tied to laptop</p>
+<p>“You can cash it at a local bank,” he joked. “Mike, I kept my promise and got the job done.”</p>
+<p>In an interview, Bresnan said that despite Biden mentioning him and their past phone call on Monday, he didn’t have a chance to meet with Biden personally at the event. He said he had been told at one point before the event he would be part of the speaking program, but ultimately only watched it from the rear of the firehouse.</p>
+<p>He did, however, speak with Kelly about whether the national union would decide about its 2024 endorsement, and how it would do so. He encouraged Kelly to make sure they surveyed its membership as part of the process, and that he expected they’d find there are pockets of support for Trump.</p>
+<p>Even before the IAFF endorsed Biden in 2020 — timed to coincide with his official launch in April 2019 — it hosted something of an early pep rally a month earlier, handing out signs reading “Run Joe Run” before Biden addressed their 2019 legislative conference in Washington.</p>
+<p>Support from the union was a key talking point for Biden’s 2020 campaign argument about his electability — especially after it had declined to endorse Hillary Clinton in 2016, a signal of her weakness among working-class, white, male voters that helped tip the balance for Trump.</p>
+<p>A spokesperson for the IAFF declined to comment on its endorsement process for 2024. Kelly took over as general president of the IAFF in 2021, succeeding Harold Schaitberger, a longtime friend of Biden’s who served in the role for two decades.</p>
+<p>Biden officials said the event on Monday was not indicative of any stepped-up effort to secure the IAFF’s endorsement — but simply the latest example of the president’s long-standing commitment to, and personal connection with, firefighters.</p>
+<p>“President Biden was proud to travel to Philadelphia on Monday to announce millions of dollars in support for these heroes. Just as he’s proud to have spent his career fighting for fire fighters and their families,” Robyn Patterson, a White House spokesperson, said in a statement to NBC News.</p>
+<p>The Biden campaign also declined to comment on the absence of an endorsement. But a source familiar with the process noted that the union will hold its annual legislative conference in Washington in March, and that Biden has often attended.</p>
+<p>Speaking at the same conference earlier this year, Biden talked about how important the group had been in his political career, joking that “there’s three political parties in Delaware: Democrats, Republican and firefighters.”</p>
+<p>“Throughout my career, I’ve tried to be there for you all, because you’ve been with me my whole career,” he said at the time.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/12/22/biden-prides-himself-on-being-pro-labor-but-one-union-that-backed-him-early-in-2020-remains-on-the-sidelines-this-time/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Trump calls for a key Ron DeSantis supporter to face a primary challenger — but the filing deadline has passed</title>
+		<link>/2023/12/22/trump-calls-for-a-key-ron-desantis-supporter-to-face-a-primary-challenger-but-the-filing-deadline-has-passed/</link>
+					<comments>/2023/12/22/trump-calls-for-a-key-ron-desantis-supporter-to-face-a-primary-challenger-but-the-filing-deadline-has-passed/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 22 Dec 2023 10:30:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=20</guid>
+
+					<description><![CDATA[Rep. Chip Roy of Texas is running unopposed in his Republican primary in March. Dec. 19, 2023, 9:52 PM +06 / Updated Dec. 20, 2023, 12:28 AM +06 By Jake Traylor Former President Donald Trump called for a Republican to challenge Rep. Chip Roy, R-Texas, on Monday night, even though the filing deadline to enter the congressional contest passed ... <a title="Trump calls for a key Ron DeSantis supporter to face a primary challenger — but the filing deadline has passed" class="read-more" href="/2023/12/22/trump-calls-for-a-key-ron-desantis-supporter-to-face-a-primary-challenger-but-the-filing-deadline-has-passed/" aria-label="More on Trump calls for a key Ron DeSantis supporter to face a primary challenger — but the filing deadline has passed">Read more</a>]]></description>
+										<content:encoded><![CDATA[<p>Rep. Chip Roy of Texas is running unopposed in his Republican primary in March.</p>
+<p>Dec. 19, 2023, 9:52 PM +06 / Updated Dec. 20, 2023, 12:28 AM +06</p>
+<p>By Jake Traylor</p>
+<p>Former President Donald Trump called for a Republican to challenge Rep. Chip Roy, R-Texas, on Monday night, even though the filing deadline to enter the congressional contest passed last week.</p>
+<p>Roy is running unopposed in the Republican primary in Texas’ 21st district in March after no other candidate filed ahead of the Dec. 11 deadline.</p>
+<p>Trump’s late-night Truth Social post came after Florida Gov. Ron DeSantis appeared on Fox News alongside Roy, who has been traversing Iowa with the GOP presidential contender during his congressional holiday break.</p>
+<p>“People are thirsty for a new generation and new vision. Looking forward, not looking backwards, somebody who can serve for eight years,” Roy said on Fox News.</p>
+<p>Roy, a member of the conservative House Freedom Caucus, was the first member of Congress to endorse DeSantis’ presidential bid back in March.</p>
+<p>DeSantis praised Roy for having “one of the most consistent and strong conservative records” when asked about Trump’s comments during a campaign stop in Iowa on Tuesday.</p>
+<p>“I do think it shows that you know, with Trump, it’s all about if you kiss the ring,” DeSantis said, noting that the former president has attacked another one of his prominent supporters, Iowa Gov. Kim Reynolds. “Attacking Chip, just because he’s supporting me, even though these are both people that have done really good work.”</p>
+<p>Recommended<br />
+MEET THE PRESS BLOGTrump fundraises off of Colorado decision, after past legal clashes boosted donations<br />
+MEET THE PRESS BLOGEyes on 2024: Harris stresses focus on abortion rights in interview</p>
+<p>Trump has been publicly critical of Roy since he voted to affirm Joe Biden’s Electoral College victory Jan. 6, 2021. Roy called Trump’s actions “clearly impeachable conduct” in the immediate aftermath of the riot at the U.S. Capitol, though he ultimately voted to not impeach Trump.</p>
+<p>With the Iowa caucuses less than a month away, Trump has been increasingly critical of DeSantis and former U.N. Ambassador Nikki Haley on the campaign trail. Taking to Truth Social on Monday night, Trump compared DeSantis to a wounded bird violently falling from the sky and called his campaign staff a group of “misfits and grifters.”</p>
+<p>Over the weekend, Trump was quick to denounce DeSantis’ polling numbers referencing an anticipated polling boost that he says never came.</p>
+<p>“With DeSanctimonious, they talk about the bounce. They’ve been talking about it for the last six months. And the only one that had a surge, and the only one that had a bounce is Trump,” he said to a Trump-loving crowd in Durham, New Hampshire, on Saturday.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/12/22/trump-calls-for-a-key-ron-desantis-supporter-to-face-a-primary-challenger-but-the-filing-deadline-has-passed/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Group that planned Jan. 6 rally lied about Capitol march plans, government report says</title>
+		<link>/2023/12/22/group-that-planned-jan-6-rally-lied-about-capitol-march-plans-government-report-says/</link>
+					<comments>/2023/12/22/group-that-planned-jan-6-rally-lied-about-capitol-march-plans-government-report-says/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 22 Dec 2023 10:28:27 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=18</guid>
+
+					<description><![CDATA[Leaders from the pro-Trump group Women For America First told the National Park Service that they did not intend to march from the Ellipse to the Capitol, the report said. By Megan Lebowitz WASHINGTON — The pro-Trump organization that applied for a Jan. 6 demonstration permit purposely misled authorities about their intentions that day, according to a new ... <a title="Group that planned Jan. 6 rally lied about Capitol march plans, government report says" class="read-more" href="/2023/12/22/group-that-planned-jan-6-rally-lied-about-capitol-march-plans-government-report-says/" aria-label="More on Group that planned Jan. 6 rally lied about Capitol march plans, government report says">Read more</a>]]></description>
+										<content:encoded><![CDATA[<p>Leaders from the pro-Trump group Women For America First told the National Park Service that they did not intend to march from the Ellipse to the Capitol, the report said.</p>
+<p>By Megan Lebowitz</p>
+<p>WASHINGTON — The pro-Trump organization that applied for a Jan. 6 demonstration permit purposely misled authorities about their intentions that day, according to a new report from a government watchdog.</p>
+<p>Representatives of Women For America First told the National Park Service that they did not intend to walk from their planned demonstration on the Ellipse, near the White House, to the Capitol on Jan. 6 despite evidence they expected then-President Donald Trump to call for a march, according to the 47-page report from the Interior Department&#8217;s Office of Inspector General.</p>
+<p>The group &#8220;intentionally failed to disclose information to the NPS regarding its knowledge of a post-demonstration march,&#8221; the report said.</p>
+<p>The National Park Service is part of the Interior Department.</p>
+<p>According to text messages cited in the report, a representative from the group told a potential rally speaker that Trump &#8220;is going to have us march there/the Capitol,&#8221; and said the information &#8220;stays only between us.&#8221;</p>
+<p>Trump addressed his supporters that day from the Ellipse, and people close to the former president said that he also wanted to go to the Capitol, according to the House Jan. 6 committee’s report.</p>
+<p>&#8220;It can also not get out about the march because I will be in trouble with the national park service and all the agencies but POTUS is going to just call for it &#8216;unexpectedly,'&#8221; the text from the group&#8217;s representative to the potential speaker continued, according to the report, which did not name the Women For America First representative.</p>
+<p>Amy Kremer, who lists on her X account that she&#8217;s the group&#8217;s chair, did not immediately respond to a request for comment.</p>
+<p>Supreme Court asked to decide if Trump is immune from Jan. 6 trial<br />
+DEC. 12, 202300:32</p>
+<p>The inspector general said it relied on interviews with more than 60 current and former Interior Department employees and reviewed more than 33,000 pages of material in compiling its report.</p>
+<p>Women For America First &#8220;refused&#8221; the inspector general&#8217;s request for a &#8220;voluntary interview,&#8221; though it provided the office with more than 3,000 pages of material in response to a subpoena, according to the report.</p>
+<p>Most large demonstrations in areas administered by the National Park Service, such as the National Mall, require a permit and ask the applicant to provide information about &#8220;proposed routes for any marches.&#8221;</p>
+<p>Recommended<br />
+DONALD TRUMPHere&#8217;s who has Trump&#8217;s ear as the primary season kicks into full gear<br />
+HUNTER BIDENFormer Trump aide asks judge to dismiss Hunter Biden lawsuit tied to laptop</p>
+<p>Women For America First did not mention a march in its application, and that affected how the National Park Service prepared for the event, according to the report.</p>
+<p>&#8220;Specifically, NPS officials stated that, had they known there would be a march from the Ellipse to the U.S. Capitol, they would have requested information from WFAF regarding the planned march route and expected time of the march and coordinated with law enforcement and other relevant officials,&#8221; among other preparations, the report said.</p>
+<p>&#8220;We acknowledge that there was some suggestion in various intelligence reports and potentially in other communications regarding a potential march,&#8221; the report said later. &#8220;This, however, does not absolve WFAF from its responsibility to provide accurate information to the NPS in the permitting process itself.&#8221;</p>
+<p>Beyond detailing the group&#8217;s plans, the report also examined actions taken by the Park Service and U.S. Park Police in preparation for Jan. 6. The report found that Park Service safety officials did not conduct a site inspection ahead of the demonstration or review the group&#8217;s &#8220;fire and life safety documentation,&#8221; as required by agency policy, nor did it &#8220;comply with notice requirements regarding prohibited items at the Ellipse, including the prohibition on backpacks and bags.&#8221;</p>
+<p>The National Park Service did not immediately respond to a request for comment.</p>
+<p>The report did not find any evidence that the U.S. Park Police &#8220;failed to exercise its law enforcement responsibilities in accordance with policy on January 6.&#8221;</p>
+<p>A Senate report published in June found that federal agencies failed to “assess and disseminate intelligence about the potential for violence that day.”</p>
+<p>More than 1,200 defendants have been charged in connection with the Jan. 6 attack on the Capitol, according to the Justice Department. More than 700 people have pleaded guilty to federal charges, and 138 people were found guilty at contested trials, according to DOJ figures.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/12/22/group-that-planned-jan-6-rally-lied-about-capitol-march-plans-government-report-says/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Here&#8217;s who has Trump&#8217;s ear as the primary season kicks into full gear</title>
+		<link>/2023/12/22/heres-who-has-trumps-ear-as-the-primary-season-kicks-into-full-gear/</link>
+					<comments>/2023/12/22/heres-who-has-trumps-ear-as-the-primary-season-kicks-into-full-gear/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 22 Dec 2023 10:27:25 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=16</guid>
+
+					<description><![CDATA[The former president has always had a sprawling group of loyalists and outside advisers, many of whom are increasingly coming back into the fold. By Katherine Doyle, Vaughn Hillyard, Brian Schwartz, CNBC, Olympia Sonnier, Ryan Nobles and Garrett Haake As Donald Trump continues to consolidate support for the Republican presidential nomination, the many conservative advisers who orbited him while he was president ... <a title="Here&#8217;s who has Trump&#8217;s ear as the primary season kicks into full gear" class="read-more" href="/2023/12/22/heres-who-has-trumps-ear-as-the-primary-season-kicks-into-full-gear/" aria-label="More on Here&#8217;s who has Trump&#8217;s ear as the primary season kicks into full gear">Read more</a>]]></description>
+										<content:encoded><![CDATA[<p>The former president has always had a sprawling group of loyalists and outside advisers, many of whom are increasingly coming back into the fold.</p>
+<p>By Katherine Doyle, Vaughn Hillyard, Brian Schwartz, CNBC, Olympia Sonnier, Ryan Nobles and Garrett Haake</p>
+<p>As Donald Trump continues to consolidate support for the Republican presidential nomination, the many conservative advisers who orbited him while he was president are turning up again, jockeying for influence and possibly the spoils of a return to the White House.</p>
+<p>And it’s creating a challenge for the tight circle of campaign professionals who are trying to win an election while also trying to keep the former president disciplined and focused.</p>
+<p>“The one thing about Donald Trump is that he loves the infighting,” said a former adviser who remains in Trump’s orbit.</p>
+<p>NBC News spoke to more than a dozen people with knowledge of the Trump world about how many of the people who surrounded him during his often chaotic days in the White House are once again in the mix, some with more credibility and legitimate claims to being part of an inner circle than others. That dynamic will inevitably start to affect Trump’s messages and strategy, but it could also derail him and threaten his focus on the campaign trail.</p>
+<p>Trump has always liked to take counsel from a large network of people, for better or worse. And this campaign is no different.</p>
+<p>His management style “pits people against each other, but he sits back and it’s like entertainment for him,” this person added. “No matter what the campaign wants or says, he likes the spectacle of people jockeying for his attention.”</p>
+<p>But Trump’s success is due in part to his willingness to entertain a range of viewpoints, said Jason Miller, a spokesperson for the campaign.</p>
+<p>“He likes to get multiple opinions from people who have distinctly different perspectives, because far too often, political leaders will only get opinions from one side and only get opinions from people who have personal interest in how a decision plays out,” Miller said. “Getting input from a number of places and then coming to his own conclusion has always been one of his strengths as a leader.”</p>
+<p>Asked whether Trump enjoys playing people off against one another, Miller responded: “I wouldn’t speak so much to that. There was some talk that maybe that factored into the White House days, but I think that the difference here, and why you don’t see the drama, is because President Trump knows whose opinions he values and he knows who he can trust.”</p>
+<p>The Insiders<br />
+Susie Wiles, center, has been credited with instilling discipline into Trump and his band of loyalists.Jabin Botsford / The Washington Post via Getty Images file</p>
+<p>Trump’s 2024 campaign staffing has had far less drama than his earlier iterations.</p>
+<p>“In years and cycles past, there’s always been a level of infighting and trying to climb over one another to the top. That’s not happening now,” a source close to Trump said. “While there are some frustrations with individuals at times, there’s no alienation.”</p>
+<p>That’s in large part due to the figures at the center of the operation: Susie Wiles and Chris LaCivita, who serve as de facto co-campaign managers; Miller, a veteran strategist; and longtime adviser Boris Epshteyn.</p>
+<p>Recommended<br />
+HUNTER BIDENFormer Trump aide asks judge to dismiss Hunter Biden lawsuit tied to laptop<br />
+2024 ELECTIONNevada GOP leaders indicted in pro-Trump ‘fake elector’ case still in charge of caucus planning</p>
+<p>Wiles, who used to be a top adviser to Florida Gov. Ron DeSantis but had a sharp break with him, has received particular plaudits for professionalizing the team.</p>
+<p>Current and former aides credit Wiles with instilling discipline not only in Trump but also in his motley band of loyalists and advisers — in part by keeping them within the fold.</p>
+<p>There is an honest deference to Wiles, a longtime Trump ally said, including from people whom this person knows Wiles is not necessarily fond of.</p>
+<p>“Those closest to the president, and those who are committed to the president, are doing one of two things: They’re raising money, or they’re working hard to get him re-elected,” said Ed McMullen, Trump’s former ambassador to Switzerland, who is raising money for his campaign. “They are not engaging in the palace intrigue.”</p>
+<p>The Outsiders<br />
+Steve Bannon, Trump&#8217;s former chief strategist, now has a podcast popular with conservatives.Michael M. Santiago / Getty Images</p>
+<p>An overlooked part of the insiders’ job is to help corral Trump’s allies outside the campaign, without acting as gatekeepers who alienate supporters. They’re a broad circle of loyalists — some of whom have been with Trump since the beginning — who once again have his ear.</p>
+<p>Back in the mix are Stephen Miller, the conservative policy aide who served in the White House, and Steve Bannon, Trump’s ousted former chief strategist, whose podcast has vaulted him to the center of the populist universe and back into Trump’s graces.</p>
+<p>There’s also Ric Grenell, Trump’s former U.S. ambassador to Germany, who is often spotted on the road with him these days, and Kash Patel, a former top Defense Department official. Tucker Carlson, a former Fox News host whose prime-time polemics drew blockbuster ratings, is another influential voice.</p>
+<p>Patel, in response, told NBC News, “President Trump surrounds himself with the brightest minds in the country and will bring back policies that will make our failing nation prosperous again.&#8221;</p>
+<p>Bannon has been using his streaming show, “War Room,” to hint at what policies could come from a second term of a Trump administration. Patel recently suggested on Bannon’s show that Trump could use the power of the federal government to target his political and media enemies.</p>
+<p>Bannon’s show and the points he’s making on it about a future Trump administration are being taken seriously by top Republican Party donors who are now regularly watching the program, believing that at least some of the things he’s saying could happen if Trump regains power, according to a longtime party fundraiser.</p>
+<p>Miller, the mastermind behind some of Trump’s most hard-line immigration policies, is working remotely with the policy and speechwriting teams, a source close to Trump said.</p>
+<p>Stephen Miller, the mastermind behind some of Trump&#8217;s most hard-line immigration policies, is back in the fold.Anna Moneymaker / Getty Images file</p>
+<p>Trump is also speaking regularly with his first campaign manager, Corey Lewandowski, who was ousted just one month before the Republican Party’s nominating convention in 2016.</p>
+<p>At a stop in New Hampshire this fall, Trump called out for Lewandowski to join him: “Where is Corey? Corey. Get over here, Corey. Come here, Corey. Give me Corey. I gotta get him up,” Trump said, calling Lewandowski someone “that’s been with me really from the beginning.”</p>
+<p>Another person back in the fold is Michael Caputo, a longtime Republican operative who has been paid at least $15,000 to be an adviser on the campaign, according to Federal Election Commission filings.</p>
+<p>Caputo, who for years has been close to Trump and allies such as Roger Stone, has become a key policy adviser to Trump for his 2024 run for the White House, according to two sources briefed on the matter.</p>
+<p>During the Trump administration, Caputo was the top spokesman for the Department of Health and Human Services. He took a leave of absence after he posted a social media rant accusing Centers for Disease Control and Prevention scientists of “sedition” and plotting “how they’re going to attack Donald Trump.” Shortly after he took leave, his spokesman said Caputo had been diagnosed with cancer.</p>
+<p>For Trump, holding a circle of faithful outsiders at close range holds other advantages: If an idea combusts, “the campaign can distance itself, arguing, ‘We never said it.’ If it works, they take credit for it,” a former adviser said, suggesting the tactic was akin to “running a campaign by proxy.”</p>
+<p>While frustrations with some outside people surface at times, the campaign team does not feel it is to anyone’s benefit to try to alienate them, said a source close to Trump.</p>
+<p>But still, there is extreme sensitivity to anyone’s trying too hard to position themselves for jobs in a potential second Trump administration.</p>
+<p>Trump “doesn’t want people in Washington planning their office space” for a future administration, his advisers say, and when people speculate about who could join his presidential ticket, “he shuts it down.”</p>
+<p>After NBC News asked the campaign about an ally — someone Trump has publicly praised — who is working behind the scenes on vetting candidates to join the ticket, an aide said anyone purporting to be involved “has lost their damned mind.”</p>
+<p>A day later, the Trump campaign put out a statement publicly tearing into “selfish efforts by ‘desk hunters’” to try to secure plum jobs for themselves in 2025.</p>
+<p>After Trump lauded the person by name before a large crowd at a campaign rally, another source said, “That’s Trump, not the campaign.”</p>
+<p>The Washington crowd</p>
+<p>Despite the refusal to engage in the Washington parlor game of guessing at a Cabinet makeup, the planning for a possible return to the Oval Office is happening.</p>
+<p>Inside and outside the campaign are operatives and policy strategists thinking about how to see Trump’s agenda through, with hires who can hit the ground running if he returns to the White House, said two advisers close to Trump who are not formally affiliated with the campaign.</p>
+<p>Plans to implement policy objectives early on could become campaign arguments, this adviser said.</p>
+<p>“The higher-level appointments aren’t necessarily there yet,” this person added. “They are working on structure — how to deliver — and not so much on Cabinet appointments.”</p>
+<p>Still, “if you raise a name, he’s always interested in hearing about what you think,” this source said of Trump. “But his view is that the transition occurs after the nomination is achieved; until then, every ounce of energy is focused on that.”</p>
+<p>Continuing to advise Trump are former officials with long government résumés, such as Grenell, Robert Lighthizer, Robert O’Brien, Mike Pompeo, John Ratcliffe and Russ Vought, this adviser said. Larry Kudlow, Stephen Moore and Newt Gingrich also remain close to him.</p>
+<p>Some have found roles at the America First Policy Institute or the Heritage Foundation, two think tanks populated by former Trump officials that are now dueling for influence in Washington.</p>
+<p>But even with a Senate map poised to prove favorable for Republicans in 2024, roadblocks are expected, with a former top Trump military appointee predicting “blood sport” confirmations to muscle Trump’s nominees through.</p>
+<p>Allies see plenty of opportunity to reshape the government even before Trump’s picks make it before the Senate.</p>
+<p>“We’re not going to sit by the next time around and wait for the Senate,” said a former Trump administration official closely involved in the planning for the next Republican White House. “In a perfect world, you nominate highly qualified, very conservative candidates to be in leadership positions throughout the federal government, not just at the secretary level, but all the way down. But the plans we are making are not contingent on a swift confirmation of people at the secretary level.”</p>
+<p>Trump White House and administration veterans advised looking to the final months of Trump’s administration for a picture of where his priorities and staffing would begin to pick up.</p>
+<p>“The president has learned his lesson to count on people he would trust,” the adviser said. “He doesn’t have to re-create the wheel.”</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/12/22/heres-who-has-trumps-ear-as-the-primary-season-kicks-into-full-gear/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Colorado GOP is discussing switching to a caucus if Trump remains off the primary ballot</title>
+		<link>/2023/12/22/colorado-gop-is-discussing-switching-to-a-caucus-if-trump-remains-off-the-primary-ballot/</link>
+					<comments>/2023/12/22/colorado-gop-is-discussing-switching-to-a-caucus-if-trump-remains-off-the-primary-ballot/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 22 Dec 2023 10:25:17 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=14</guid>
+
+					<description><![CDATA[The prospective change to the state&#8217;s presidential nominating process would face major logistical and legal hurdles. Then-President Donald Trump at a campaign rally in Colorado Springs in 2020.Evan Vucci / AP file Dec. 21, 2023, 2:44 AM +06 By Adam Edelman The Colorado Republican Party is considering switching its presidential contest to a caucus in the ... <a title="Colorado GOP is discussing switching to a caucus if Trump remains off the primary ballot" class="read-more" href="/2023/12/22/colorado-gop-is-discussing-switching-to-a-caucus-if-trump-remains-off-the-primary-ballot/" aria-label="More on Colorado GOP is discussing switching to a caucus if Trump remains off the primary ballot">Read more</a>]]></description>
+										<content:encoded><![CDATA[<p>The prospective change to the state&#8217;s presidential nominating process would face major logistical and legal hurdles.<br />
+Then-President Donald Trump at a campaign rally in Colorado Springs in 2020.Evan Vucci / AP file</p>
+<p>Dec. 21, 2023, 2:44 AM +06<br />
+By Adam Edelman</p>
+<p>The Colorado Republican Party is considering switching its presidential contest to a caucus in the event that Donald Trump is ultimately ineligible to appear on the state&#8217;s primary ballot following a bombshell Colorado Supreme Court ruling.</p>
+<p>The prospective switch, which would come with major hurdles, would ensure that Coloradans are still able to cast their vote for the former president after the state’s high court kicked him off the primary ballot — and that the state GOP would still able to award delegates to him at the national party’s nominating convention.</p>
+<p>Making that change would require permission from the national Republican Party, preparations for a larger caucus in March, and cooperation from the Colorado Secretary of State’s Office, which runs elections in the state.</p>
+<p>A switch to a caucus system would also depend on the outcome and timing of a prospective U.S. Supreme Court ruling on whether Trump’s name must remain off the Colorado primary ballot — unknowns that leave in question how, when and whether the state party would move forward with a change.</p>
+<p>“We’re at the mercy of the U.S. Supreme Court. We’re not sure what their timing is going to be. We’re figuring it out as we go,” said Dave Williams, the chairman of the Colorado Republican Party. “But we’ll make our preparations to convert to a caucus while this is all playing out.&#8221;</p>
+<p>“And if it [a Supreme Court ruling] does not go in our favor, we’ll plan to do a caucus. But if it does go in our favor, then nothing will change,” Williams added.</p>
+<p>In emails and phone calls, other state and national GOP officials indicated that making the switch would be tricky and contingent on several dynamics that, for the time being, are unclear.</p>
+<p>The first step, Williams and others explained, would be for the Colorado GOP to request a waiver from the Republican National Committee that would allow the state party to award delegates based on the results of a caucus system, not a primary election.</p>
+<p>In October, the Republican National Committee had approved plans from all 50 state parties about how they would hold their nominating contest and award delegates for the national nominating convention in July 2024.</p>
+<p>Williams predicted that he and other Colorado GOP officials would, “likely in the next week or two” approach the RNC to “start the process of obtaining a waiver in the event that the U.S. Supreme Court doesn’t rule in our favor.”</p>
+<p>He said the process would be made easier by the fact that the Colorado state party had in September, “embedded” in its plan to the RNC a “contingency&#8221; in the event that Trump were to be removed from the ballot that essentially “gave notice that we could ask for a waiver to convert from the primary system to caucus system.”</p>
+<p>RNC rules dictate that such a waiver can be granted to a state Republican Party in cases where the national committee determines that doing so “is in the best interests of the Republican Party&#8221; or when it&#8217;s &#8220;not possible for a state Republican Party to hold the electing, selection, allocation, or binding of delegates to the national convention in accordance with the process(es) certified to the Republican National Committee.”</p>
+<p>The RNC’s executive committee, which would vote on such a waiver, is next scheduled to meet at its winter meeting in Las Vegas at the end of January.</p>
+<p>Colorado’s Supreme Court ruled on Tuesday that Trump’s candidacy in the state’s primary next year is prohibited on constitutional grounds because he engaged in insurrection by inciting a riot on Jan. 6, 2021. The first-of-its kind ruling stems from a lawsuit that focused on a little-known provision in the 14th Amendment of the U.S. Constitution. Similar challenges in other states have proven unsuccessful.</p>
+<p>In its opinion, the court explicitly stated that Colorado Secretary of State Jena Griswold “may not list President Trump’s name on the 2024 presidential primary ballot, nor may she count any write-in votes cast for him.”</p>
+<p>The court put its decision on hold until Jan. 4 to allow for further appeals.</p>
+<p>It also said that if the matter reaches the U.S. Supreme Court before that date, the pause will remain in effect during that time and Colorado will be required to include Trump’s name on the primary ballot pending action by the Supreme Court.</p>
+<p>The Trump campaign has signaled that an appeal to the U.S. Supreme Court is imminent. As a result, the broader outcome will be mired in legal limbo for several weeks or months.</p>
+<p>The Colorado GOP nevertheless said it could begin the process of holding a caucus instead of a primary in the coming weeks.</p>
+<p>Recommended<br />
+DONALD TRUMPHere&#8217;s who has Trump&#8217;s ear as the primary season kicks into full gear<br />
+HUNTER BIDENFormer Trump aide asks judge to dismiss Hunter Biden lawsuit tied to laptop</p>
+<p>For decades, Colorado held caucuses as its nominating contests for presidential candidates. But in 2019, voters approved a measure that switched to a primary election system in presidential races, a change that was first implemented in 2020.</p>
+<p>But Colorado voters still caucus in contests for lower offices.</p>
+<p>Colorado’s presidential primaries are currently scheduled for Tuesday, March 5. But state Republicans already have scheduled for caucuses across the state for other offices on March 7 explained Vera Ortegon, a Republican National Committeewoman from Colorado.</p>
+<p>“Hopefully, we will win the appeal to the Supreme Court, and his name will appear on the ballot. But if not then of course, we have a plan B — to elect the presidential candidate through the current caucus system,” she said.</p>
+<p>(Ortegon noted that there is an additional day of caucusing scheduled for March 9 for specific rural communities.)</p>
+<p>How exactly the party would take on expanding the existing statewide caucuses in such a narrow timeframe remains unclear.</p>
+<p>But, if Republicans moved forward with switching to a caucus system, another likely hurdle would be any challenges to the changes from the Colorado Secretary of State’s office.</p>
+<p>Williams said that, “the only thing we would [ask] of them is request that they not send out [Republican] primary ballots.”</p>
+<p>“But if they refused us for whatever reason, then we’d tell them ‘OK, fine,’” he added. “We’re just going to ignore the results. We are not going to adhere to  a system that has Donald Trump off that ballot.”</p>
+<p>Jack Todd, a spokesperson for Colorado Secretary of State Jena Griswold, a Democrat, retorted that &#8220;Colorado law does not allow a presidential primary election to be cancelled at the request of a political party.&#8221;</p>
+<p>&#8220;If the Colorado Republican Party attempts to withdraw from the presidential primary or ignore the results of the election, this would likely be a matter for the courts,&#8221; Todd added.</p>
+<p>Todd declined to respond to questions about whether that meant Griswold&#8217;s office would file a suit to stop an effort by the state GOP to switch to a caucus, saying he &#8220;can’t speak to hypothetical scenarios.&#8221;</p>
+<p>Griswold told MSNBC’s Alex Wagner on Tuesday night that she “will follow whatever court order or decision is in place by the time of [ballot] certification.” Griswold’s deadline for ballot certification is Jan. 5.</p>
+<p>“If the United States Supreme Court decides to take this case, I’m sure that they will consider that certification in the state of Colorado is very quickly approaching and will issue an order or a decision quickly to make sure that we are in compliance with the law,” Griswold said.</p>
+<p>Potentially further complicating the situation is that one of Trump&#8217;s opponents, Vivek Ramaswamy, has vowed to “withdraw” from the GOP primary ballot in Colorado if Trump’s name remains off the ballot and challenged the other candidates to do the same.</p>
+<p>Former U.N. Ambassador Nikki Haley, Florida Gov. Ron DeSantis and former New Jersey Gov. Chris Christie all criticized the court’s decision, arguing that judges should not play a role in the election process. But DeSantis said explicitly that he would not remove himself from the ballot in solidarity with Trump.</p>
+<p>All four have already met all criteria from the Colorado Secretary of State to appear on the primary ballot.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/12/22/colorado-gop-is-discussing-switching-to-a-caucus-if-trump-remains-off-the-primary-ballot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Trump’s MAGA force swamps the competition in New Hampshire</title>
+		<link>/2023/12/22/trumps-maga-force-swamps-the-competition-in-new-hampshire/</link>
+					<comments>/2023/12/22/trumps-maga-force-swamps-the-competition-in-new-hampshire/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 22 Dec 2023 10:24:06 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=12</guid>
+
+					<description><![CDATA[Ron DeSantis and Nikki Haley’s events pale in comparison to Trump’s raucous Saturday rally, as they continue to struggle with how to overtake the former president. By Jonathan Allen DURHAM, N.H. — Nearly 100 people gathered to hear Ron DeSantis’ updated pitch for the Republican presidential nomination in the basement of a shared-office center in Windham, ... <a title="Trump’s MAGA force swamps the competition in New Hampshire" class="read-more" href="/2023/12/22/trumps-maga-force-swamps-the-competition-in-new-hampshire/" aria-label="More on Trump’s MAGA force swamps the competition in New Hampshire">Read more</a>]]></description>
+										<content:encoded><![CDATA[<p>Ron DeSantis and Nikki Haley’s events pale in comparison to Trump’s raucous Saturday rally, as they continue to struggle with how to overtake the former president.</p>
+<p>By Jonathan Allen</p>
+<p>DURHAM, N.H. — Nearly 100 people gathered to hear Ron DeSantis’ updated pitch for the Republican presidential nomination in the basement of a shared-office center in Windham, New Hampshire, Friday night.</p>
+<p>After half a year on the campaign trail, the Florida governor is clearly more comfortable than he was during his early foray into this state in June, mixing light humor in with policy proposals like shooting border-crossers. When he first started campaigning here, he didn’t honor the tradition of taking questions from the stage. On Friday, he fielded query after query for long enough that the crowd, most of whom were not given chairs, thinned to about half its original size.</p>
+<p>The question DeSantis had the most difficulty answering is one that has confounded the rest of former President Donald Trump’s rivals for the GOP nomination: “What’s your strategy to beat Trump?” a man in the audience asked.</p>
+<p>“So, here’s the thing, I think, like, you know, you’ve got to ask yourself on these polls — in November of 2022, we were supposed to have this big red wave, and that crashed and burned. It didn’t happen,” DeSantis said. “You look at the polls on my race, people said I was going to win, but a lot of them were like a week out, 5 points, 6 points. I won by 20.”</p>
+<p>He went on to contend that the media is propping up Trump, that President Joe Biden might not be the Democratic nominee and that “narrative” will “collide with reality” when Iowa voters caucus on Jan. 15.</p>
+<p>Trump leads with &#8216;outright majority&#8217; in Iowa caucuses, polling shows<br />
+DEC. 11, 202310:10</p>
+<p>But the reality here is the roughly 4,000 people who showed up to the University of New Hampshire’s ice hockey arena Saturday to shower Trump with applause, scream their approval and affirm that they will vote for him in the Jan. 23 primary.</p>
+<p>“We love you! We love you! We love you!” the MAGA base chanted at Trump almost an hour into his remarks.</p>
+<p>They cheered when he promised, in a relatively new proposal, to “indemnify all police officers” against “being destroyed by the radical left for taking strong actions against crime.”</p>
+<p>He even picked up some new support at a rally that was his biggest — and perhaps his last — of the year in the state. Chuck Morse, a gubernatorial candidate who lost his 2022 Senate primary after failing to gain Trump’s endorsement, stood behind a “Make America Great Again”-branded lectern before Trump arrived and pledged his loyalty to the former president.</p>
+<p>“We need to secure the northern and the southern borders. We need to get the economy back on track for working families hit hard by inflation. And we need to put America first when it comes to producing energy,” he said of what he hears from voters across the state. “We can do all these things by putting Joe Biden back in his basement and getting Donald Trump back into the Oval Office.”</p>
+<p>The differences in energy and interest between Trump and the pack are evident across the state, echoing his dominance in polls here.</p>
+<p>Attendees cheer during a campaign rally for former President Donald Trump in Durham, N.H., on Dec. 15.Reba Saldanha / AP</p>
+<p>When Gov. Chris Sununu, the most powerful elected Republican in the state, endorsed former United Nations Ambassador Nikki Haley earlier in the week, they drew between 200 and 300 supporters to a more modest venue in Manchester. For DeSantis and Haley, who are running second and third, respectively, in national polls, the most immediate challenge is to break away from each other.</p>
+<p>Kevin Butterworth, a semiretired 70-year-old from Manchester, saw DeSantis for the first time Friday night and liked what he heard.</p>
+<p>Recommended<br />
+DONALD TRUMPHere&#8217;s who has Trump&#8217;s ear as the primary season kicks into full gear<br />
+HUNTER BIDENFormer Trump aide asks judge to dismiss Hunter Biden lawsuit tied to laptop</p>
+<p>“He’s very impressive,” Butterworth, who wants to see Trump stopped in the primary, said of DeSantis. “He knows what he’s doing. If he was elected president, he would be a good president.”</p>
+<p>But Butterworth, who went to Haley’s event earlier in the week, said he isn’t sold yet.</p>
+<p>“It’s between Nikki and DeSantis,” he said. “I find both formidable as a replacement to what we have now and Trump. I mean, either one would do it.”</p>
+<p>While anti-Trump Republicans are still trying to pick their horse, the former president has pivoted much of his rhetoric to the general election. Susie Wiles, senior adviser to the Trump campaign, said that his team will begin to focus more completely on the general election following the Super Tuesday primaries in March if all goes according to plan.</p>
+<p>She also said that because Trump may have to spend time off the trail in court beginning in March, the plan is to make that &#8220;not as critical a time by doing our jobs ahead of time and immediately after.&#8221;</p>
+<p>On Saturday, Trump blamed Biden for everything from inflation to the Israel-Hamas war. And, citing a comment by Russian President Vladimir Putin, he said that it is Biden and Democrats — not him — who represent a threat to democracy almost three years after his backers stormed the Capitol in a failed attempt to overturn his 2020 loss.</p>
+<p>“We talk about democracy,” Trump said before alluding to the criminal charges he faces in four separate federal and state cases, “but the whole world is watching the persecution of a political opponent that’s kicking his a&#8211;.”</p>
+<p>Trump also had favorable comments for other autocratic leaders, pointing to Hungary’s Prime Minister Viktor Orbán’s praise for him and saying that Kim Jong Un in North Korea is a “nice” person.</p>
+<p>Most polls show a close contest between Trump and Biden with nearly a year before Election Day.</p>
+<p>Still, Trump chided his Republican opponents enough to remind voters here that he still needs their help to win the primary.</p>
+<p>“With Nikki, they talk about the surge, and with DeSanctimonious, the talk about the bounce,” Trump said, using a nickname for DeSantis. “The only one that had a surge and the only one that had a bounce is Trump.”</p>
+<p>He again called former New Jersey Gov. Chris Christie a “fat pig.” Christie is running third, behind Haley and in front of DeSantis, in New Hampshire, but he has not campaigned in Iowa.</p>
+<p>As was the case with DeSantis, Trump worked against the clock. An hour into his speech, audience members began to file out of the arena. Twenty minutes later, as he spoke over music as if reciting lines for a campaign ad, little more than half the crowd remained. Trump kept going, and the hard-core faithful stuck around to the end.</p>
+<p>“Trump is going to kick a&#8211; and he’s going to come back and fix everything,” Effingham resident Stacy Brown, 55, said at the conclusion of what was her first Trump rally. “I’d have a hard time supporting anyone else.”</p>
+<p>Several other attendees said in interviews with NBC News they have no interest in the other Republicans.</p>
+<p>“He’s the best candidate to rule this country,” said Jackueline Chaves of Bedford. “I think that the way he thinks, his attitude, he’s just powerful, that’s it.”</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/12/22/trumps-maga-force-swamps-the-competition-in-new-hampshire/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 60/63 objects using Redis
+Page Caching using Redis 
+Database Caching using Redis
+
+Served from: _ @ 2024-01-03 05:54:52 by W3 Total Cache
+-->
